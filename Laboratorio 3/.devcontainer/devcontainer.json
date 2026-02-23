@@ -1,0 +1,15 @@
+{
+  "name": "Laboratorio 3 - 32bits",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack"
+      ]
+    }
+  },
+  "remoteUser": "root"
+}
